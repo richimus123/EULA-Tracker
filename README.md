@@ -5,7 +5,9 @@ The purpose of this project is to provide a simple browser plugin and tracking s
 
 # In short:
 1- Stash all of the EULAs and the related URL.
+
 2- Simplify the EULA language to provide a quick summary view.
+
 3- Call out any "red flags" or concerns with the contract.
 
 # Later Features:
