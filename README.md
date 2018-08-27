@@ -1,7 +1,7 @@
 # EULA-Tracker
 Nobody reads the EULA contacts that they accept while accessing websites, services, etc.  Wouldn't you like to know what you have agreed to?  Do you know if your information is being collected and how it is being used?
 
-The purpose of this project is to provide a simple browser plugin and tracking system for EULAs that you have agreed to; and to simplify the language of the EULA so that you actually understand what you are agreeing to and what rights you are forfeiting.
+The purpose of this project is to provide a simple Chrome browser plugin and tracking system for EULAs that you have agreed to; and to simplify the language of the EULA so that you actually understand what you are agreeing to and what rights you are forfeiting.
 
 # In short:
 1- Stash all of the EULAs and the related URL.
